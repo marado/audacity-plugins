@@ -3,7 +3,7 @@
 ;type analyze
 ;name "Wave Stats..."
 ;action "Gathering Data..."
-;info "By Steve Daulton. http://audacity.easyspacepro.com Released under GPL v2.\n\nAttempting to analyse too much data may cause Nyquist to crash.\nIn the unlikey event of Audacity crashing, reduce the\n'Maximum Length' to less than 30 seconds."
+;info "By Steve Daulton. http://audionyq.com Released under GPL v2.\n\nAttempting to analyse too much data may cause Nyquist to crash.\nIn the unlikey event of Audacity crashing, reduce the\n'Maximum Length' to less than 30 seconds."
 
 ;; version 0.3
 
